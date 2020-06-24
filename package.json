@@ -1,0 +1,16 @@
+{
+  "name": "node-red-show-value",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Ryzec",
+  "license": "ISC",
+  "node-red": {
+    "nodes": {
+      "show-value": "show-value.js"
+    }
+  }
+}

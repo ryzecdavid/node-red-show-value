@@ -17,5 +17,6 @@
     "type": "git",
     "url": "https://github.com/ryzecdavid/node-red-show-value.git"
   },
-  "homepage": "https://github.com/ryzecdavid/node-red-show-value"
+  "homepage": "https://github.com/ryzecdavid/node-red-show-value",
+  "keywords": ["node-red"]
 }
